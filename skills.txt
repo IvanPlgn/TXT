@@ -1,1 +1,0 @@
-Skills: Linux, Git, GitHub, GitBash, API.
